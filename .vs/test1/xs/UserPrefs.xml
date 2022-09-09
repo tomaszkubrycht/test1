@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AA954645-F1BE-47A3-8F14-7A046828C742}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test1/Program.cs">
+    <Files>
+      <File FileName="test1/Program.cs" Line="48" Column="37" />
+      <File FileName="test1/Extensions.cs" />
+      <File FileName="test1/NeuralNetwork.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test1" expanded="True">
+            <Node name="test1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.test1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tomaszkubrycht/Projects/test1/test1/Program.cs" relfile="test1/Program.cs" line="59" column="1" />
+      <Breakpoint file="/Users/tomaszkubrycht/Projects/test1/test1/NeuralNetwork.cs" relfile="test1/NeuralNetwork.cs" line="401" column="1" />
+      <Breakpoint file="/Users/tomaszkubrycht/Projects/test1/test1/NeuralNetwork.cs" relfile="test1/NeuralNetwork.cs" line="221" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
